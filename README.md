@@ -26,6 +26,14 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+```c
+#include <stdio.h>
+
+int main(int argc, char **argv) {
+    return 0;
+}
+```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
