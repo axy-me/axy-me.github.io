@@ -1,13 +1,12 @@
-## 关于我 
+## axy.me 
 
-吾乃axy，家有儿女名曰潇瑶，是故“爱逍遥” ...
+### 内容导引 
 
-## 工作学习 
+程序员，喜专研，爱编程，借此记录学习心得、笔记 ~
 
-程序员，喜专研，爱编程，此处记录相关心得、笔记；
+ * [Linux](subject/linux/index.md)
+ * [C&C++](subject/cpp/index.md)
 
-[C&C++](pages/index.md)
+### 联系方式
 
-## 游戏娱乐
-
-
+Email: zhuyunhu@126.com
